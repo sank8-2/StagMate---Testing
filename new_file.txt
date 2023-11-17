@@ -3,3 +3,9 @@ SO THIS IS A SAMPLE FILE I CREATED...
 FOR ANY CHANGES THAT WE DO IT IS VERY IMPORTANT TO COMMIT THE CHANGES AND PUSH THEM
 
 SO I'LL SHOW THOSE PROCEDURES ALSO...
+
+After I commited the changes again they asked to sync so we have to sync again.
+Commit message is very very important and plays a major role in the industry.
+Now I'll show the gitHub page to display the changes that are made.
+As you can see that the changes I done after commiting are not displayed. As only the commited files gets updated to gitHub.
+Let's commit again and see what happens.
