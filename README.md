@@ -1,2 +1,2 @@
-#Hello, this is the Readme of the file
+Hello, this is the Readme of the file
 The use of Collaborations in GitHub...
