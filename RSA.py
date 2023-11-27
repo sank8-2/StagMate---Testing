@@ -195,11 +195,11 @@ if __name__ == '__main__':
 
     setkeys()
 
-    message = "Test Message"
+    # message = "Test Message"
 
     # Uncomment below for manual input
 
-    # message = input("Enter the message\n")
+    message = input("Enter the message\n")
 
     # Calling the encoding function
 
@@ -211,6 +211,8 @@ if __name__ == '__main__':
     print(message)
 
     print("\n\nThe encoded message(encrypted by public key)\n")
+
+    print(coded)
 
     print(''.join(str(p) for p in coded))
 
